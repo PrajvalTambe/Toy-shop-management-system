@@ -1,7 +1,9 @@
 # Toy-shop-management-system
 
 Use MySQL Database
+
 Create mydb Database 
+
 create following table in Database
 
 Table: bill
