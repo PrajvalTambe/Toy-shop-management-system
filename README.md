@@ -1,10 +1,10 @@
 # Toy-shop-management-system
 
-Use MySQL Database
+1  Use MySQL Database
 
-Create mydb Database 
+2  Create mydb Database 
 
-create following table in Database
+3  Create following table in Database
 
 Table: bill
 
@@ -72,4 +72,6 @@ Columns:
       
       added_stock       int(10)        
         
+        
    
+Open Login.py file and run
