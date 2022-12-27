@@ -29,4 +29,15 @@ Columns:
         product_name    varchar(45) 
         current_stock   int(10) 
         new_stock       int(10)       
+        
+Table: add_product
+Columns:
+      product_id        int(11) PK 
+      product_name      varchar(45) 
+      supplier_name     varchar(45) 
+      stock_add_date    varchar(45) 
+      p_price           int(5) 
+      s_price           int(5) 
+      added_stock       int(10)        
+        
    
